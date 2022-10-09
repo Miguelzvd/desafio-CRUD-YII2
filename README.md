@@ -1,6 +1,6 @@
 <p> Deve ser criado um banco de dados chamado 'cadastros' e logo em seguida uma tabela chamada 'usuario' contendo as seguintes colunas: </p>
 
-## COLUNAS DA TABELA 'usuario' com seus respectivos tipos:
+## COLUNAS DA TABELA 'usuario' COM SEUS RESPECTIVOS TIPOS:
 -     'usuario_id': tipo int
       'usuario': tipo string
       'senha': tipo string
