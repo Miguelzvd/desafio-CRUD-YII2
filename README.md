@@ -8,7 +8,7 @@
       'cpf': tipo string
       'email': tipo string
       'telefone': tipo string
-      'foto': tipo string (deve guardar o caminho do arquivo)
+      'foto': tipo string
       'data_nascimento': tipo string
       'cep': tipo string
       'endereco': tipo string
