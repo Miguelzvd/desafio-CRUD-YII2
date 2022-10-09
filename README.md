@@ -27,7 +27,7 @@
       'status': tipo string
       'quem_reg': tipo string
 
-- A diretório 'assets' contém o arquivo de criação do banco de dados e da tabela, basta executá-lo no HeidiSQL utilizando o laragon e a tabela será gerada automaticamente
+- A diretório 'db' contém o arquivo de criação do banco de dados e da tabela, basta executá-lo no HeidiSQL utilizando o laragon e a tabela será gerada automaticamente
 
 
 # Como utilizar
