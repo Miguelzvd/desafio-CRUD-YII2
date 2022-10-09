@@ -1,4 +1,12 @@
-<p> Deve ser criado um banco de dados chamado 'cadastros' e logo em seguida uma tabela chamada 'usuario' contendo as seguintes colunas: </p>
+# Ferramentas utilizadas:
+
+-     Laragon (para criar o servidor local e criar o banco de dados)
+      HeidiSQL (para o gerenciamento do bando de dados)
+      Yii2 (framework)
+
+# Gerando banco de dados:
+
+Deve ser criado um banco de dados chamado 'cadastros' e logo em seguida uma tabela chamada 'usuario' contendo as seguintes colunas
 
 ## COLUNAS DA TABELA 'usuario' COM SEUS RESPECTIVOS TIPOS:
 -     'usuario_id': tipo int
@@ -19,4 +27,9 @@
       'status': tipo string
       'quem_reg': tipo string
 
-- A pasta 'assets' contém o arquivo de criação do banco de dados e da tabela, basta executa-lo no HeidiSQL utilizando o laragon
+- A diretório 'assets' contém o arquivo de criação do banco de dados e da tabela, basta executá-lo no HeidiSQL utilizando o laragon e a tabela será gerada automaticamente
+
+
+# 
+
+
