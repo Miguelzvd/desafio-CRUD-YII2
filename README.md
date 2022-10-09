@@ -1,7 +1,7 @@
 # Ferramentas utilizadas:
 
 -     Laragon (para criar o servidor local e criar o banco de dados)
-      HeidiSQL (para o gerenciamento do bando de dados)
+      HeidiSQL (para o gerenciamento do banco de dados)
       Yii2 (framework)
 
 # Gerando banco de dados:
