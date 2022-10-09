@@ -32,7 +32,8 @@
 
 # Como utilizar
 
-- 1 - A aplicacao deve ser incializada utilizando o comando "php -S localhost:8000" no diretorio web do projeto, ou simplesmente utilizar o largon para inicializar.
+- 1 - A aplicação deve ser inicializada utilizando o comando "php -S localhost:8000" no diretório web do projeto, ou simplesmente utilizar o largon para inicializar.
 - 2 - Com o projeto inicializado o usuário deve realizar um cadastro para poder logar e ter acesso ao CRUD.
 - 3 - Após o cadastro realizar o login.
 - 4 - Com o login realizado, o usuário terá acesso a todas a telas e ações do "CRUD".
+
