@@ -2,7 +2,7 @@
 
 ## COLUNAS DA TABELA 'usuario' com seus respectivos tipos:
 -            'usuario_id' - tipo int
--            'usuario' - tipo string
+             'usuario' - tipo string
 -            'senha' - tipo string
 -            'nome' - tipo string
 -            'cpf' - tipo string
