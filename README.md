@@ -19,4 +19,4 @@
       'status': tipo string
       'quem_reg': tipo string
 
-- A pasta 'assets' contem o arquivo de criçao do banco de dados e da tabela, basta executa-lo no HeidiSQL utilizando o laragon
+- A pasta 'assets' contém o arquivo de criação do banco de dados e da tabela, basta executa-lo no HeidiSQL utilizando o laragon
