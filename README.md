@@ -6,7 +6,7 @@
 
 # Gerando banco de dados:
 
-Deve ser criado um banco de dados chamado 'cadastros' e logo em seguida uma tabela chamada 'usuario' contendo as seguintes colunas
+- Deve ser criado um banco de dados chamado 'cadastros' e logo em seguida uma tabela chamada 'usuario' contendo as seguintes colunas
 
 ## COLUNAS DA TABELA 'usuario' COM SEUS RESPECTIVOS TIPOS:
 -     'usuario_id': tipo int
@@ -30,6 +30,9 @@ Deve ser criado um banco de dados chamado 'cadastros' e logo em seguida uma tabe
 - A diretório 'assets' contém o arquivo de criação do banco de dados e da tabela, basta executá-lo no HeidiSQL utilizando o laragon e a tabela será gerada automaticamente
 
 
-# 
+# Como utilizar
 
-
+- 1 - A aplicacao deve ser incializada utilizando o comando "php -S localhost:8000" no diretorio web do projeto, ou simplesmente utilizar o largon para inicializar
+- 2 - Com o projeto inicializado o usuario deve realizar um cadastro para poder logar e ter acesso ao CRUD 
+- 3 - Apos o cadastro realizar o login
+- 4 - Com o login realizado, o usario tera acesso a todas a telas e acoes do "CRUD"
