@@ -49,6 +49,8 @@ class UsuarioModel extends \yii\db\ActiveRecord
             [['email', 'url', 'endereco', 'complemento', 'bairro', 'cidade'], 'string', 'max' => 255],
             [['url'], 'file'],
             ['email', 'email'],
+            ['usuario','unique', 'message' => 'O nome de usuário já existe'],
+            ['telefone','unique', 'message' => 'O número de telefone já está sendo utilizado'],
             [['nome', 'bairro', 'cidade', 'endereco'], 'match', 'pattern' => '/^[A-z- ]+$/'],
             [['cpf'], 'string', 'max' => 14],
             [['data_nascimento'], 'string', 'min'=>10, 'max'=>10],
